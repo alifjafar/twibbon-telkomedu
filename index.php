@@ -25,7 +25,7 @@
     <div class="row">
         <div class="col-md-8">
             <div class="loading-alert-file" style="display:none">
-                <div class="alert alert-warning">
+                <div class="alert alert-success">
                     Sedang Memuat Gambar
                 </div>
             </div>
@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="loading-alert" style="display:none">
-                    <div class="alert alert-warning">
+                    <div class="alert alert-success">
                         Gambar Sedang di Proses !
                     </div>
                 </div>
@@ -91,6 +91,9 @@
                             <label class="custom-file-label" for="upload">Choose file</label>
                         </div>
                     </div>
+                    <small>
+                        <strong>*Pastikan Fotomu > 300 px</strong>
+                    </small>
                 </div>
             </div>
         </div>
