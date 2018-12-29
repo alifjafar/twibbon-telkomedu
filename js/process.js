@@ -58,8 +58,8 @@
             photo.src = canvas.toDataURL();
             photo.onload = function () {
                 if (photo.width > 300) {
-                    var width = 1000,
-                        height = 1000;
+                    var width = 512,
+                        height = 512;
 
                     var canvas = document.createElement('canvas');
                     var context = canvas.getContext('2d');
