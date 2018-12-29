@@ -8,6 +8,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <title>Frame Telkom Edu 2019</title>
     <link rel="stylesheet" href="css/cropper.css">
+    <style>
+        .result {
+            max-width: 512px;
+        }
+    </style>
 </head>
 <body>
 <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
@@ -66,7 +71,7 @@
                             Hasil
                         </div>
                         <div class="card-body">
-                            <div id="result"></div>
+                            <div id="result" class="text-center"></div>
                         </div>
                         <div class="card-footer">
                             <a href="/" class="btn btn-info">Reset</a>

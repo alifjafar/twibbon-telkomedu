@@ -94,6 +94,7 @@
             roundedImage = document.createElement('img');
             downloadButton.setAttribute('href', roundedCanvas.toDataURL('image/jpeg', 1.0));
             roundedImage.src = roundedCanvas.toDataURL('image/jpeg', 1.0);
+            roundedImage.setAttribute('class', 'img-fluid result');
             result.innerHTML = '';
             result.appendChild(roundedImage);
             $("#download-button").show();
