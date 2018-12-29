@@ -71,7 +71,7 @@
                         <div class="card-footer">
                             <a href="/" class="btn btn-info">Reset</a>
                             <a class="btn btn-primary float-right" id="download-button"
-                               download="twibbon-telkomedu2k18.jpg"
+                               download="twibbon-telkomedu2k19.jpg"
                                style="display:none">Download</a>
                         </div>
                     </div>
