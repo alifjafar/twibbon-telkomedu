@@ -28,7 +28,7 @@
 </nav>
 <div class="container mt-5">
     <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-8 mb-3">
             <div class="loading-alert-file" style="display:none">
                 <div class="alert alert-success">
                     Sedang Memuat Gambar
